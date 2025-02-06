@@ -1,0 +1,23 @@
+body {
+  min-width: fit-content !important;
+  min-height: 100vh;
+} 
+
+header {
+  width: 100vw;
+  height: 50px;
+  margin-top: 20px;
+  position: absolute;
+  top: 0;
+  display: block;
+  text-align: center;
+}
+
+.content{
+  top:0;
+  width: 95vw;
+  position: absolute;
+  margin: 5% 0 0 2%;
+  text-align: center;
+  border: 3px solid green;
+}

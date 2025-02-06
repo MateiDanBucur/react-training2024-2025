@@ -1,0 +1,17 @@
+{
+    "name": "Name",
+    "description": "Description",
+    "type": "Type",
+    "link": "Where to find it",
+    "tags": "Tags",
+    "status": "Status",
+    "amount": "Amount",
+    "deadline": "Deadline",
+    "actions": "Actions",
+    "do_something": "Do Something",
+    "navigation.home.title": "WATCHLIST",
+    "navigation.edit.title": "EDIT/DELETE",
+    "navigation.add.title": "ADD NEW MOVIE/TV SHOW",
+    "edit.button": "Edit",
+    "delete.button": "Delete"
+}

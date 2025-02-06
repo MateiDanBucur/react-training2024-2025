@@ -1,0 +1,14 @@
+{
+    "name": "Nume",
+    "description": "Descriere",
+    "type": "Tip",
+    "link": "Unde il poti gasi",
+    "tags": "Tags",
+    "status": "Status",
+    "amount": "Cantitate",
+    "deadline": "Termen limita",
+    "do_something": "Fa o schimbare",
+    "navigation.home.title": "LISTA DE URMARIRE",
+    "navigation.edit.title": "EDITEAZA",
+    "navigation.add.title": "ADAUGA UN NOU FILM/SERIAL"
+}
